@@ -6,9 +6,9 @@ int main()
     char mathOperation;
     printf("Enter what math operation you would like to use : ('+', '-', '/', '*'): ");
     scanf("%c", &mathOperation);
-    printf("Enter first: ");
+    printf("Enter first number: ");
     scanf("%d", &number1);
-    printf("Enter second: ");
+    printf("Enter second number: ");
     scanf("%d", &number2);
 
     switch (mathOperation)
