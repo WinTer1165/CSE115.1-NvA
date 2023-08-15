@@ -9,8 +9,7 @@ Input week number(1-7): 2
 Output:
 Tuesday
 
-## Problem 2: Write a C program to input number from user and check whether the
-number is even or odd using if else and switch case.
+## Problem 2: Write a C program to input number from user and check whether the number is even or odd using if else and switch case.
 
 Example-
 Input:
@@ -31,7 +30,9 @@ Output:
 ## Problem 4: Write a C program to print message only if student id and password is correct.
 
 Sample Input:
+
 Enter your ID: 1165
+
 Enter your password: 5125
 
 Sample Output:
@@ -40,6 +41,7 @@ Welcome To Dashboard User
 ## Problem 5: Write a C program to display user details using Id number.
 
 Sample Input:
+
 Enter your id: 13
 
 Sample Output:
